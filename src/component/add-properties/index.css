@@ -1,0 +1,26 @@
+.add-properties{
+display: flex;
+padding: 24px;
+flex-direction:column;
+align-items: flex-start;
+gap: 36px;
+}
+.add-properties__item{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding-top: 36px;
+}
+.add-properties__title{
+    align-items: flex-start;
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+}
+.add-properties__content{
+    align-items: flex-start;
+    color: #000;
+    font-size: 16px;
+    padding-top: 16px;
+}
